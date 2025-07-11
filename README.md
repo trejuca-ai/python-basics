@@ -18,5 +18,4 @@ https://code.visualstudio.com/download
 3. PostgreSQL
 https://www.postgresql.org/download/
 
-4. De preferencia una conexión a internet para poder instalar las extensiones de VS Code:
-a) Python
+4. De preferencia una conexión a internet para poder instalar la extensión de Python para VS Code
