@@ -1,0 +1,72 @@
+[
+    {
+        "nombre": "Juan",
+        "primer_apellido": "García",
+        "telefono": "5551234567",
+        "calle": "Av. Reforma 123",
+        "colonia": "Centro"
+    },
+    {
+        "nombre": "María",
+        "primer_apellido": "López",
+        "telefono": "5552345678",
+        "calle": "Calle Juárez 45",
+        "colonia": "Del Valle"
+    },
+    {
+        "nombre": "Luis",
+        "primer_apellido": "Hernández",
+        "telefono": "5553456789",
+        "calle": "Insurgentes Sur 300",
+        "colonia": "Nápoles"
+    },
+    {
+        "nombre": "Ana",
+        "primer_apellido": "Ramírez",
+        "telefono": "5554567890",
+        "calle": "Calle Morelos 78",
+        "colonia": "Condesa"
+    },
+    {
+        "nombre": "Carlos",
+        "primer_apellido": "Pérez",
+        "telefono": "5555678901",
+        "calle": "Av. Universidad 567",
+        "colonia": "Coyoacán"
+    },
+    {
+        "nombre": "Lucía",
+        "primer_apellido": "Morales",
+        "telefono": "5556789012",
+        "calle": "Calle Hidalgo 90",
+        "colonia": "Polanco"
+    },
+    {
+        "nombre": "Miguel",
+        "primer_apellido": "Ruiz",
+        "telefono": "5557890123",
+        "calle": "Av. Tláhuac 12",
+        "colonia": "Iztapalapa"
+    },
+    {
+        "nombre": "Fernanda",
+        "primer_apellido": "Torres",
+        "telefono": "5558901234",
+        "calle": "Calle Nezahualcóyotl 67",
+        "colonia": "Tlalpan"
+    },
+    {
+        "nombre": "Jorge",
+        "primer_apellido": "Sánchez",
+        "telefono": "5559012345",
+        "calle": "Av. Patriotismo 234",
+        "colonia": "San Pedro de los Pinos"
+    },
+    {
+        "nombre": "Patricia",
+        "primer_apellido": "Cruz",
+        "telefono": "5550123456",
+        "calle": "Calle Emiliano Zapata 11",
+        "colonia": "Xochimilco"
+    }
+]

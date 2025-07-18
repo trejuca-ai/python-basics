@@ -1,0 +1,16 @@
+[
+    {
+        "calle": "Calle 1",
+        "colonia": "Colonia 10",
+        "nombre": "juan",
+        "primer_apellido": "trejo"
+    },
+    {
+        "calle": "Calle 1",
+        "colonia": "Colonia 10",
+        "nombre": "juan",
+        "primer_apellido": "trejo",
+        "segundo_apellido": "trejo",
+        "telefono": "trejo"
+    }
+]

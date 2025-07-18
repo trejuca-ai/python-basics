@@ -63,3 +63,13 @@ class Persona:
 
 # persona2.edad = 20
 # print(persona2.edad)
+
+persona6 = {
+    "id": 1,
+    "nombre": "Juan",
+    "apellido": "perez",
+    "edad": 0
+}
+
+perosna_var = Persona(**persona6)
+print(perosna_var)
