@@ -1,0 +1,1 @@
+ENCABEZADOS = ["id", "Nombre", "Primer apellido", "Segundo apellido", "Correo electronico"   ]
