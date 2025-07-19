@@ -19,3 +19,9 @@ https://code.visualstudio.com/download
 https://www.postgresql.org/download/
 
 4. De preferencia una conexión a internet para poder instalar la extensión de Python para VS Code
+
+Librerias usadas en el proyecto
+
+1. Tabulate -> https://pypi.org/project/tabulate/
+2. Reportlab -> https://docs.reportlab.com/
+3. Pydantic -> https://docs.pydantic.dev/latest/
